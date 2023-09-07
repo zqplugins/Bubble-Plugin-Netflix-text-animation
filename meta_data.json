@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "containers",
+        "2": "media",
+        "3": "video",
+        "4": "small business"
+    },
+    "demo_page": "https://bubble.io/page?type=page&name=netflix_text&id=clasic-plugins&test_plugin=1667355777017x756337092219371500_current&tab=tabs-1",
+    "description": "Imitate the Netflix text effect.\n\nAdd fancy and unique taste to your site. \n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1667358384262x198582797473582750/brave_XfcJvAPgKo--101.gif",
+    "license": "open_source",
+    "link": "https://zeroqode.com/",
+    "name": "Netflix text animation",
+    "plugin_instructions": "1 - Download the plugin\n2 - Drag the plugin element in your app\n3 - Add text in the input"
+}

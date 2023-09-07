@@ -1,0 +1,40 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "Netflix text",
+    "fields": {
+        "AAD": {
+            "caption": "text",
+            "default_val": "Netflix",
+            "editor": "DynamicValue",
+            "name": "text",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "fontsize",
+            "default_val": 32,
+            "doc": "vmin",
+            "editor": "DynamicValue",
+            "name": "fontsize",
+            "optional": false,
+            "rank": 1,
+            "value": "number"
+        },
+        "AAF": {
+            "caption": "fontweight",
+            "editor": "DynamicValue",
+            "name": "fontweight",
+            "rank": 2,
+            "value": "number"
+        }
+    },
+    "icon": "ion-android-create",
+    "property_applications": {
+        "resizable": true
+    }
+}
